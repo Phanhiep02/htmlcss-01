@@ -119,6 +119,8 @@ a {
   border-radius: 8px;
 }
 
+/* hero */
+
 .hero .info {
   /* lấy 1110px ở content chia cho width bản thiết kế */
   width: 51%;
